@@ -1,8 +1,4 @@
 
-# made with love by Aekansh Dixit (https://github.com/aekanshd/) 
-# Please credit me in all your future updates, that's all - you're free to use this code commercially, too.
-# (c) Aekansh Dixit, 2018 provided under The MIT License (https://opensource.org/licenses/MIT)
-
 
 # This file contains all the function definitions required for the main modules to work.
 # from pathlib import Path - Old age method, not needed.
