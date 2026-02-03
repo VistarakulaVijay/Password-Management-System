@@ -21,6 +21,6 @@ Unlock/Lock Session - Tired of re-entering your global password each time you wa
 Copy Password - Password too lengthy or complicated to type? Just tap the Copy Password button and we'll copy it to your clipboard.
 
 # Source Code
-The entire source code of the program is stored under the "raw" folder. That's it!
+The entire source code of the program is stored under the "raw" folder. 
 
 
