@@ -23,5 +23,4 @@ Copy Password - Password too lengthy or complicated to type? Just tap the Copy P
 # Source Code
 The entire source code of the program is stored under the "raw" folder. That's it!
 
-# Next thing
-New thing to do
+
